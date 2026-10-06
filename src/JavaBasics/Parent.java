@@ -8,10 +8,6 @@ public class Parent {
         int b=3;
         int sum=a+b;
         System.out.println("The sum is"+ sum);
-
-        Methods m= new Methods();
-        m.Validateheader();
-        System.out.println(m.Validateheader());
-
+        
     }
 }
